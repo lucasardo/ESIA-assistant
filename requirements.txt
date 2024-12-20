@@ -1,0 +1,17 @@
+streamlit==1.36.0
+pandas
+numpy
+openpyxl
+pdfquery
+pandas
+xlsxwriter
+matplotlib
+python-docx
+langchain==0.2.8
+langchain-openai
+langchain-core
+azure-core
+azure-search-documents
+llama-index
+llama-index-embeddings-azure-openai
+langchain-tools
